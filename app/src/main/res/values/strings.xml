@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MVVMDemo</string>
+    <string name="button_text">Click to increase!</string>
+    <string name="textview_text">Click button to see a number!</string>
 </resources>
